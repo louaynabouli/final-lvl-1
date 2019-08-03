@@ -1,0 +1,72 @@
+.box4{
+    /* height: max-content; */
+    background-image: url(https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/223599.jpg);
+    background-position: center;
+    background-size: cover ;
+    border: 1.5px #4D4D4D solid;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 28px;
+    margin: 10px;
+}
+.box5{
+    /* height: max-content; */
+    background-image: url(https://img.buzzfeed.com/thumbnailer-prod-us-east-1/d06825b70fda48c3af27557bec4b8d9b/BFV46558EasyWeeknightMealstoMakeWithYourKidsFBV2.jpg);
+    background-position: center;
+    background-size: cover ;
+    border: 1.5px #4D4D4D solid;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 28px;
+    margin-right: 10px;
+}
+.box6{
+    /* height: max-content; */
+    background-image: url(https://www.skinnytaste.com/wp-content/uploads/2019/06/Greek-Pasta-Salad-6-260x390.jpg);
+    background-position: center;
+    background-size: cover ;
+    border: 1.5px #4D4D4D solid;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 28px;
+    margin-left: 10px;
+}
+.box7{
+    /* height: max-content; */
+    background-image: url(https://weshareideas.com.br/blog/wp-content/uploads/2017/11/como-fazer-mirror-cake-1.jpg);
+    background-position: center;
+    background-size: cover ;
+    border: 1.5px #4D4D4D solid;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 28px;
+    margin: 10px;
+}
+.box8{
+    /* height: max-content; */
+    background-image: url(https://img.taste.com.au/GXsU7KlZ/w290-h190-cfill-q80/taste/2018/09/doritos-crumbed-chicken-tenders-141990-2.jpg);
+    background-position: center;
+    background-size: cover ;
+    border: 1.5px #4D4D4D solid;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 28px;
+    margin-right: 10px;
+}
+.box9{
+    /* height: max-content; */
+    background-image: url(https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/227313.jpg);
+    background-position: center;
+    background-size: cover ;
+    border: 1.5px #4D4D4D solid;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 28px;
+    margin-left: 10px;
+}
+.nav-link{
+    margin-left: 100px;
+    font-size: 30px;
+    font-family: 'Lobster', sans-serif;
+}
+.navbar-brand{
+    font-family: 'Lobster', sans-serif;
+}
+.container-fluid{
+    margin-left: 25%;
+    padding: 40px 40px;
+}
